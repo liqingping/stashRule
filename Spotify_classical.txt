@@ -1,2 +1,2 @@
-DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-,no-resolve
+DOMAIN-KEYWORD,spotify.com,no-resolve

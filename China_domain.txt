@@ -1,2 +1,2 @@
-.cn
-.ms
+.cn,no-resolve
+.ms,no-resolve

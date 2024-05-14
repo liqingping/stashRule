@@ -1,4 +1,4 @@
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
-DOMAIN-KEYWORD,netflixdnstest
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,no-resolve
+DOMAIN-KEYWORD,dualstack.apiproxy-,no-resolve
+DOMAIN-KEYWORD,dualstack.ichnaea-web-,no-resolve
+DOMAIN-KEYWORD,netflixdnstest,no-resolve

@@ -1,1 +1,1 @@
-DOMAIN-KEYWORD,icloud.com.akadns.net
+DOMAIN-KEYWORD,icloud.com.akadns.net,no-resolve

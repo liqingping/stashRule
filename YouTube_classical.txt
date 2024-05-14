@@ -1,1 +1,1 @@
-DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,youtube,no-resolve

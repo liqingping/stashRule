@@ -1,2 +1,2 @@
-DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,musical.ly,no-resolve
+DOMAIN-KEYWORD,tiktok,no-resolve
