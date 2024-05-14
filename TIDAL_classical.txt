@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com,no-resolve
+DOMAIN-SUFFIX,tidal.com,no-resolve
+DOMAIN-SUFFIX,tidalhifi.com,no-resolve
+DOMAIN-SUFFIX,wimpmusic.com,no-resolve

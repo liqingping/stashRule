@@ -1,0 +1,7 @@
+DOMAIN,hls-amt.itunes.apple.com,no-resolve
+DOMAIN,hls.itunes.apple.com,no-resolve
+DOMAIN,np-edge.itunes.apple.com,no-resolve
+DOMAIN,play-edge.itunes.apple.com,no-resolve
+DOMAIN,tv.applemusic.com,no-resolve
+DOMAIN,uts-api.itunes.apple.com,no-resolve
+DOMAIN-SUFFIX,tv.apple.com,no-resolve
