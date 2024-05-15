@@ -1,7 +1,7 @@
-hls-amt.itunes.apple.com,no-resolve
-hls.itunes.apple.com,no-resolve
-np-edge.itunes.apple.com,no-resolve
-play-edge.itunes.apple.com,no-resolve
-tv.applemusic.com,no-resolve
-uts-api.itunes.apple.com,no-resolve
-.tv.apple.com,no-resolve
+hls-amt.itunes.apple.com
+hls.itunes.apple.com
+np-edge.itunes.apple.com
+play-edge.itunes.apple.com
+tv.applemusic.com
+uts-api.itunes.apple.com
+.tv.apple.com

@@ -1,1 +1,1 @@
-music.youtube.com,no-resolve
+music.youtube.com
