@@ -12308,6 +12308,7 @@
 .adxfire.in
 .adxfire.net
 .adxgeeks.com
+.adxhand.name
 .adxhi.com
 .adxhome.com
 .adxiaozi.com
@@ -14524,6 +14525,7 @@
 .amnruvbmeoqp.com
 .amnsreiuojy.ru
 .amntx1.net
+.amnwpircuomd.com
 .amo.myoyster.mx
 .amoad.com
 .amobee.com
@@ -22056,6 +22058,7 @@
 .beacon.livefyre.com
 .beacon.lycos.com
 .beacon.my.salesforce.com
+.beacon.nc-net.or.jp
 .beacon.netflix.com
 .beacon.nrholding.net
 .beacon.nuskin.com
@@ -25509,6 +25512,7 @@
 .bromisescapose.com
 .bromoilnapalms.com
 .bromusic.site
+.bromusic3s.site
 .bronchichogset.com
 .broncogainer.top
 .bronto.com
@@ -27086,6 +27090,7 @@
 .ca867c69a5d34.com
 .ca88b.cn
 .ca9246.xyz
+.caa2c4.xyz
 .caaie.xyz
 .caajol.icu
 .caamcs.julipet.it
@@ -44937,6 +44942,7 @@
 .eghrbf.immowelt.at
 .eghuntsrizvbt.com
 .eghyahl.cn
+.egidskiw.top
 .egiontheh.cfd
 .egipsbvlgn.xyz
 .egjq.com.cn
@@ -57691,6 +57697,7 @@
 .gusleelurg.top
 .gussame.com
 .gussbkpr.website
+.gussiessmutchy.com
 .gussimsosurvey.space
 .gustaver.ddns.net
 .gustdertrum.com
@@ -59536,6 +59543,7 @@
 .hgbn1.com
 .hgbnr.com
 .hgcbvpjswabie.xyz
+.hgcgnfe.icu
 .hgcmnews.pro
 .hgdanbas.cn
 .hgdat.com
@@ -60106,6 +60114,7 @@
 .hjshal.com
 .hjtedf.xyz
 .hjues.com
+.hjuswoulvp.xyz
 .hjxajf.com
 .hjxrhlmei.com
 .hjyhfusvr.com
@@ -67256,6 +67265,7 @@
 .iwantusingle.com
 .iwapwcqg.com
 .iwatojc.cn
+.iwaxurhebkn.com
 .iwbubcs.v01aelux.space
 .iwdapjojrylh.xyz
 .iwe.ktvgv.com
@@ -68051,6 +68061,7 @@
 .jeeteo.com
 .jeethaju.net
 .jeetyetmedia.com
+.jeewoo.xctd.me
 .jeeyarworld.com
 .jeffdahlke.com
 .jeffstrategic.com
@@ -70527,6 +70538,7 @@
 .kbd1.kpns.ijinshan.com
 .kbdstwnruc.com
 .kbevcidiiqwa.com
+.kbexos.xyz
 .kbhaxxsiucgnek.com
 .kbifqgyugzo.com
 .kbighx.absolventa.de
@@ -85509,6 +85521,7 @@
 .milotree.com
 .milparota.com
 .miltauru.net
+.milteept.xyz
 .miltlametta.com
 .miluwo.com
 .milyondolar.com
@@ -86528,7 +86541,10 @@
 .mobilelog.upqzfile.com
 .mobilelog.ws.pho.to
 .mobilemsg.youku.com
+.mobileoffers-7-j-download.com
 .mobileoffers-ac-download.com
+.mobileoffers-dld-download.com
+.mobileoffers-downloadapp-a.com
 .mobileoffers-ep-download.com
 .mobileposse.com
 .mobilepreviouswicked.com
@@ -86623,6 +86639,8 @@
 .modifyeyes.com
 .modifymaintenance.com
 .modifywilliamgravy.com
+.modlily.com
+.modlily.net
 .modoro360.com
 .modtrnxsmf.com
 .modularmental.com
@@ -87017,6 +87035,7 @@
 .moonicorn.network
 .moonify.io
 .moonjahaphodal.com
+.moonjscdn.info
 .moonlightingapi-ads.com
 .moonoafy.net
 .moonovernegril.com
@@ -87479,6 +87498,7 @@
 .mqqxkkenfws.com
 .mqrupjsm.xyz
 .mqsicr.smiggle.co.uk
+.mqsjzm.cn
 .mqsnce.xyz
 .mqtt-mini.facebook.com
 .mquawbxc.com
@@ -88890,6 +88910,7 @@
 .naipatouz.com
 .naipsouz.net
 .nairapp.com
+.naisepsaige.com
 .naiskosungueal.top
 .naisoops.net
 .naissaance.fr
@@ -102044,6 +102065,7 @@
 .proxytpb.pw
 .prplad.com
 .prplads.com
+.prpmdp.xyz
 .prpops.com
 .prpopss.com
 .prprocess.com
@@ -103321,6 +103343,7 @@
 .pxstda.com
 .pxsunbsd.com
 .pxthyfgzm.com
+.pxtjfmv.xyz
 .pxtrkr.com
 .pxvlcc.crocs.fr
 .pxx.tnklrs.cn
@@ -104171,6 +104194,7 @@
 .qnlranvabrnq.top
 .qnmtqq.com
 .qnnawbvdyuql.com
+.qnp16tstw.com
 .qnpolbme.com
 .qnprzxurkv.com
 .qnqdpy.edreams.net
@@ -104949,6 +104973,7 @@
 .qwrot.cyou
 .qwrwawwmblwbb.top
 .qwrwawwmblybj.top
+.qwsanan.top
 .qwtag.com
 .qwuejlmct.com
 .qwuexgqmua.com
@@ -105772,6 +105797,7 @@
 .rcyzsh.icu
 .rczudr.xyz
 .rczwcs.brack.ch
+.rd-cdnp.name
 .rd.alice.it
 .rd.autohome.com.cn
 .rd.e.sogou.com
@@ -108988,6 +109014,7 @@
 .rtas.videocc.net
 .rtb-1.jizzberry.com
 .rtb-1.mylust.com
+.rtb-1.xcafe.com
 .rtb-3.xgroovy.com
 .rtb-east-wins.crossinstall.com
 .rtb-media.me
@@ -113420,6 +113447,7 @@
 .sghehllds.com
 .sghmho.com
 .sgidkvwd.com
+.sgidskib.top
 .sgihava.com
 .sglahyea.xyz
 .sgmcdn.racingpost.com
@@ -122075,6 +122103,7 @@
 .stack-sonar.com
 .stackadapt.com
 .stackattacka.com
+.stackmultiple.com
 .stackoverflow.xyz
 .stackprotectnational.com
 .stadac.mobilapp.io
@@ -125164,6 +125193,7 @@
 .sunmcre.com
 .sunmedia.net
 .sunmedia.tv
+.sunmediaads.com
 .sunmomo.me
 .sunmomo88.com
 .sunnimiq.cf
@@ -139441,6 +139471,7 @@
 .v.shopify.com
 .v.sixiuwl.cn
 .v.ssacdn.com
+.v.strosin.biz
 .v.szpaopao.com
 .v.topya.com
 .v.u22l.cc
@@ -140545,6 +140576,7 @@
 .vfvdsati.com
 .vfvvhywsdons.com
 .vfxkeagns.com
+.vfxrpl.xyz
 .vfyxjsclor.com
 .vfzfrx.xyz
 .vfzqtgr.com
@@ -145813,6 +145845,7 @@
 .wmbldi.compass.it
 .wmcasher.ru
 .wmcdp.io
+.wmcdpt.com
 .wmclickz.ru
 .wmdymnqzhbo.com
 .wmdzefk.com
@@ -152950,6 +152983,7 @@
 .zhengxiaoliu.top
 .zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 .zhengyejixie.com
+.zhengzhou12.top
 .zhengzhoupengbo.com
 .zhenhun.co
 .zhenxinet.com
